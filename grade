@@ -1,0 +1,6 @@
+calculate_grade(*scores,**adjustments):
+   average=((scores)/3)+adjustments
+   return average
+  
+Final Grade=calculate_grade(85,90,78)
+print(f"Final Grade: {Final Grade})
