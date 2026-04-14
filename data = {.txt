@@ -1,8 +1,0 @@
-data = {
-    'order_id':        [101, 102, 103, 104, 105, 106, 107, 108, 109, 110],
-    'customer_city':   ['Mumbai', 'Delhi', 'Mumbai', 'Pune', 'Delhi', 'Mumbai', 'Pune', 'Delhi', 'Mumbai', 'Pune'],
-    'cuisine_type':    ['Italian', 'Chinese', 'Italian', 'Indian', 'Chinese', 'Indian', 'Italian', 'Indian', 'Chinese', 'Italian'],
-    'delivery_time':   [30, 45, None, 50, 40, 35, None, 55, 42, 38],
-    'order_amount':    [250, 400, 300, 150, 500, 200, 350, 450, None, 275],
-    'is_delivered':    [True, True, False, True, True, True, False, True, True, True]
-}
